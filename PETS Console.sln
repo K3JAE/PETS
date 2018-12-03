@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PETS Console", "PETS Console\PETS Console.vbproj", "{63FD863F-3BAC-47EC-98BE-4496855635FD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PETS_Data_Program", "..\PETS_Data_Program\PETS_Data_Program\PETS_Data_Program.vbproj", "{2B59CCF6-7183-4E73-A649-620F471A1946}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PETSDataEntry", "..\..\..\Visual Studio 2017\Projects\PETS_Data_Entry\PETSDataEntry\PETSDataEntry.vbproj", "{F59DBCEA-F781-4B2D-8AB9-C7DF1EC9C21A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PETS_Spreadsheet", "..\..\..\Visual Studio 2017\Projects\PETS_Spreadsheet\PETSSpreadsheetSample\PETS_Spreadsheet.vbproj", "{1F8F5E41-3507-4EEF-8EE8-D1AFD8268DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63FD863F-3BAC-47EC-98BE-4496855635FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FD863F-3BAC-47EC-98BE-4496855635FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FD863F-3BAC-47EC-98BE-4496855635FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FD863F-3BAC-47EC-98BE-4496855635FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B59CCF6-7183-4E73-A649-620F471A1946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B59CCF6-7183-4E73-A649-620F471A1946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B59CCF6-7183-4E73-A649-620F471A1946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B59CCF6-7183-4E73-A649-620F471A1946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F59DBCEA-F781-4B2D-8AB9-C7DF1EC9C21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59DBCEA-F781-4B2D-8AB9-C7DF1EC9C21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59DBCEA-F781-4B2D-8AB9-C7DF1EC9C21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59DBCEA-F781-4B2D-8AB9-C7DF1EC9C21A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8F5E41-3507-4EEF-8EE8-D1AFD8268DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8F5E41-3507-4EEF-8EE8-D1AFD8268DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8F5E41-3507-4EEF-8EE8-D1AFD8268DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8F5E41-3507-4EEF-8EE8-D1AFD8268DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
